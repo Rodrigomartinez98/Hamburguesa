@@ -1,0 +1,74 @@
+:root {
+    --primario: #003f5c;
+    --secundario: #ec9b3b;
+}
+
+.titulo span {
+    color: #f7be16;
+}
+
+.nav-link {
+    color: #272121;
+}
+
+.navbar {
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.imagen-bg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen-principal {
+    background-image: url(images/burgerlarga.jpg);
+    height: 35rem;
+}
+
+.categorias h2 {
+    font-size: 2.5rem;
+    color: #f7be16;
+}
+
+.categorias a {
+    font-weight: 400;
+    color: #272121;
+    text-decoration: none;
+}
+
+.nosotros .img-nosotros {
+    min-height: 30rem;
+}
+
+.img-nosotros {
+    background-image: url(images/Quienessomos.avif);
+
+}
+
+.btn-success {
+    background-color: #f7be16;
+}
+
+.footer {
+    background-color: #015dfd;
+    margin: auto;
+
+}
+
+.row {
+    color: aliceblue;
+    padding: auto;
+}
+
+ion-icon{
+    background: white;
+    padding: 1em;
+    margin: 3em;
+    border-radius: 50%;
+    border: 3px solid;
+    color: #015dfd;
+    size: large;
+    cursor: pointer;
+}
